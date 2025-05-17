@@ -1,6 +1,7 @@
 import time
 import pandas as pd
 import numpy as np
+import streamlit as st
 
 CITY_DATA = { 'Chicago': 'chicago.csv',
               'New York': 'new_york_city.csv',
