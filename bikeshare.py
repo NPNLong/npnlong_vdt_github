@@ -3,6 +3,8 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 
+print("Hello VDT")
+
 CITY_DATA = { 'Chicago': 'chicago.csv',
               'New York': 'new_york_city.csv',
               'Washington': 'washington.csv' }
